@@ -12,4 +12,4 @@ Check out the [`starlight-group-pages` getting started guide](https://starlight-
 
 Licensed under the MIT license, Copyright © trueberryless.
 
-See [LICENSE](https://github.com/trueberryless-org/starlight-group-pages/blob/main/LICENSE) for more information.
+See [LICENSE](https://github.com/trueberryless/starlight-group-pages/blob/main/LICENSE) for more information.
