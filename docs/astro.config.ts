@@ -55,12 +55,12 @@ export default defineConfig({
         {
           icon: "github",
           label: "GitHub",
-          href: "https://github.com/trueberryless-org/starlight-group-pages",
+          href: "https://github.com/trueberryless/starlight-group-pages",
         },
       ],
       editLink: {
         baseUrl:
-          "https://github.com/trueberryless-org/starlight-group-pages/edit/main/docs/",
+          "https://github.com/trueberryless/starlight-group-pages/edit/main/docs/",
       },
       plugins: [
         ...(isLabelDemo
