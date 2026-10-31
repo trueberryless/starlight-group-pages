@@ -1,6 +1,6 @@
 {
   "name": "starlight-group-pages",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Starlight plugin to give your sidebar groups their own pages.",
   "keywords": [
     "starlight",
